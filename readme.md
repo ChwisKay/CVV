@@ -1,5 +1,11 @@
 # The suite of apps that invoke daily victory.
 
+- `CVV` -Conqueror's Valor Vault- is a collection of apps that are designed to help people improve their lives in various ways.
+- The apps are designed to be used in conjunction with each other, but they can also be used on their own.
+- The apps are focussed primarily on users who are affected by mental health issues, specifically executive dysfunction, but they can be used by anyone who wants to improve their lives.
+- The apps are designed to be as simple as possible, so that they can be used by anyone, regardless of their technical proficiency.
+- The apps and the suite are designed in such a way that the user is always in control of their data and how it is used. This makes it possible for the users to easily share their data with healthcare professionals, if they so choose.
+
 ## umbrella app:
 
 - `CVV` is the umbrella app that all the other apps seamlessly integrate with.
@@ -8,9 +14,9 @@
 
 ## apps:
 
-- `SSQ` is the app that allows users to manage their daily tasks by personal importance over priority.
-- `CSM` is the app that allows users to manage their 4-weekly.
-- `ELE` is the app that allows users ledger their activities and how these affect them.
+- `SSQ` -SoliSquire- is the app that allows users to manage their daily tasks by personal importance over priority.
+- `CSM` -ChoreSmith- is the app that allows users to manage their 4-weekly.
+- `ELE` -EndeavorLedger- is the app that allows users ledger their activities and how these affect them.
 
 ## shared:
 
